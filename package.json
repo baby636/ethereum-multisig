@@ -45,7 +45,7 @@
     "popper.js": "^1.12.9",
     "solium": "^1.1.7",
     "tether": "^1.4.3",
-    "trezor.js": "^6.17.6",
+    "trezor.js": "^9.1.0",
     "truffle": "^4.1.13",
     "ganache-cli": "^6.1.5",
     "web3": "^0.20.4"
