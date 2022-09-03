@@ -3,3 +3,4 @@ web3==4.4.1
 eth-utils==1.0.3
 mythril==0.18.5
 ethereum==2.3.1
+eth-account>=0.5.9 # not directly required, pinned by Snyk to avoid a vulnerability
