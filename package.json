@@ -48,7 +48,7 @@
     "trezor.js": "^6.17.6",
     "truffle": "^4.1.13",
     "ganache-cli": "^6.1.5",
-    "web3": "^0.20.4"
+    "web3": "^1.2.0"
   },
   "dependencies": {
     "serve": "^6.4.1"
