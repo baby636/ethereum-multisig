@@ -35,7 +35,7 @@
     "@ledgerhq/hw-transport-u2f": "^4.12.0",
     "@ledgerhq/hw-transport-node-hid": "^4.7.6",
     "babel-polyfill": "^6.26.0",
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^5.0.0",
     "browserify": "^15.2.0",
     "font-awesome": "^4.7.0",
     "highlightjs": "^9.10.0",
